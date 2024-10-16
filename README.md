@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working as **Assistant Director of Web Dev Team IEEE CS CUI**
 
-- 🌱 I’m currently learning **Javascript and Advanced CSS & HTML concepts.**
+- 🌱 I’m currently learning **AI and Backend Development**
 
-- 💬 Ask me about **java, html, css and javascript.**
+- 💬 Ask me about **java, front-end and CSS frameworks**
 
 - 📫 How to reach me **khaulanauman@gmail.com**
 
