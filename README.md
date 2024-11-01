@@ -27,8 +27,12 @@
     <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="An image of @khaulanauman's Holopin badges, which is a link to view their full Holopin profile" style=" height: 200px;" />
 </a>
 <a href="https://holopin.io/@khaulanauman" target="_blank">
-    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="An image of @khaulanauman's Holopin badges, which is a link to view their full Holopin profile" style=" height: 200px;" />
-</a></div>
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-coffee-0-0-0.webp" alt="An image of @khaulanauman's Holopin badges, which is a link to view their full Holopin profile" style=" height: 200px;" />
+</a>
+<a href="https://holopin.io/@khaulanauman" target="_blank">
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-coffee-hoodie-0-0.webp" alt="An image of @khaulanauman's Holopin badges, which is a link to view their full Holopin profile" style=" height: 200px;" />
+</a>
+</div>
 
 
 
