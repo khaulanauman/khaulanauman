@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
 <h1 align="center">Hi 👋, I'm Khaula Nauman</h1>
-<h3 align="center">A 3rd year SWE student learning web dev.</h3>
+<h3 align="center">A 3rd year SWE student that loves coding.</h3>
 <br><br>
 
 
