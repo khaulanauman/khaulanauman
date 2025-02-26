@@ -4,7 +4,7 @@
 <br><br>
 
 
-- 🔭 I’m currently working as **Assistant Director of Web Dev Team IEEE CS CUI**
+- 🔭 I’m currently working as **Director of Web Dev Team IEEE CS CUI**
 
 - 🌱 I’m currently learning **AI and Backend Development**
 
