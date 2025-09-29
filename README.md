@@ -4,7 +4,7 @@
 <br><br>
 
 
-- 🔭 I’m currently working as **Software Developer**
+- 🔭 I’m currently working as a **Software Developer**
 
 - 🌱 I’m currently learning **ASR and Mobile App Development**
 
