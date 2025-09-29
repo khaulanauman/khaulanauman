@@ -4,11 +4,9 @@
 <br><br>
 
 
-- 🔭 I’m currently working as **Director of Web Dev Team IEEE CS CUI**
+- 🔭 I’m currently working as **Software Developer**
 
-- 🌱 I’m currently learning **AI and Backend Development**
-
-- 💬 Ask me about **java, front-end and CSS frameworks**
+- 🌱 I’m currently learning **ASR and Mobile App Development**
 
 - 📫 How to reach me **khaulanauman@gmail.com**
 
